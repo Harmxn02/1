@@ -1,4 +1,4 @@
-# Assignment 1
+# Assignment 1: Apply and fine-tune transformer models​
 
 ## Comparison of pre-trained models (and fine-tune [FT])
 
