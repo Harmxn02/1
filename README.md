@@ -2,9 +2,15 @@
 
 ## GitHub repository
 
-Here is the link to the public GitHub repository: [[link]](https://github.com/Harmxn02/TTAI_Assignment_1/)
+Here is the link to the public GitHub repository: [github.com](https://github.com/Harmxn02/TTAI_Assignment_1/)
 
-Do **NOT** forgot to hand in the project. The Powerpoint, and code file (this repo) zipped, on Leho, before 9AM Wednesday!
+## PowerPoint
+
+The PowerPoint is included in this directory.
+
+Or you can find it here: [office.com](https://studenthowest-my.sharepoint.com/:p:/g/personal/harman_singh_student_howest_be/EYgiDs1PyNRAt6ueJ4GsfWQB4TbJdu-DOA3mIW3X4fYS4Q?e=uK4udn), but I think this requires a Howest-account.
+
+<sub><sup>(last updated: 15/11/2024 @ 18:34)</sup></sub>
 
 ## Comparison of pre-trained models (and fine-tune [FT])
 
