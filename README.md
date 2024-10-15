@@ -1,5 +1,9 @@
 # Assignment 1: Apply and fine-tune transformer models​
 
+## HAND-IN
+
+Do **NOT** forgot to hand in the project. The Powerpoint, and code file (this repo) zipped, on Leho, before 9AM Wednesday!
+
 ## Comparison of pre-trained models (and fine-tune [FT])
 
 Here you will find the comparisons of all the different pre-trained models we tested, and if the fine-tuned we trained.
