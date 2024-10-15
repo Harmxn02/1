@@ -1,6 +1,8 @@
 # Assignment 1: Apply and fine-tune transformer models​
 
-## HAND-IN
+## GitHub repository
+
+Here is the link to the public GitHub repository: [[link]](https://github.com/Harmxn02/TTAI_Assignment_1/)
 
 Do **NOT** forgot to hand in the project. The Powerpoint, and code file (this repo) zipped, on Leho, before 9AM Wednesday!
 
