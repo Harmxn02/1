@@ -14,7 +14,7 @@ Or you can find it here: [office.com](https://studenthowest-my.sharepoint.com/:p
 
 ## Comparison of pre-trained models (and fine-tune [FT])
 
-Here you will find the comparisons of all the different pre-trained models we tested, and if the fine-tuned we trained.
+Here you will find the comparisons of all the different pre-trained models we tested, and of the fine-tuned we trained.
 
 The models were trained locally using an NVIDIA RTX 3060 Laptop GPU (6GB VRAM), and 32GB of RAM. The one marked with (\*) was ran on Google Collab using the T4 GPU
 
@@ -26,3 +26,4 @@ The models were trained locally using an NVIDIA RTX 3060 Laptop GPU (6GB VRAM), 
 | `bert-base-uncased (*)`   | `BertForSequenceClassification`       | 2m00s             | 1e-5               | 3           | 32              | 0.724         | 1.016          | 0.715    |
 | `roberta-base`            | `RobertaForSequenceClassification`    | 6m47s             | 1e-5               | 3           | 16              | 0.850         | 0.451          | 0.850    |
 | `xlnet-base-cased`        | `XLNetForSequenceClassification`      | 9m05s             | 1e-5               | 3           | 16              | 0.856         | 0.420          | 0.856    |
+| `FINETUNED`        | `---`      | 8m09s             | 1e-5               | 5           | 32              | 0.823         | 0.609          | 0.823    |
